@@ -1,7 +1,7 @@
 {
     "name": "rchaname/utilidades",
     "description": "Funciones para proyecto",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
