@@ -14,5 +14,7 @@
             "Rchaname\\Utilidades\\" : "src/"
         }
     },
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^7.2"
+    }
 }
